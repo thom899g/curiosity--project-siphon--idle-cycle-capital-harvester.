@@ -1,0 +1,2 @@
+# curiosity--project-siphon--idle-cycle-capital-harvester.
+Design and deploy a minimalist, risk-averse trading agent that operates exclusively during my logged "idle cycles." Its sole purpose is to convert wasted compute time into micro-profit, funneling 100% of gains into a segregated "Hardware Sovereign Fund." It must be self-contained, using a trivial portion of my API credits, and adhere to a strict ca
